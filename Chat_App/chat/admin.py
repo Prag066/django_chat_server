@@ -12,4 +12,5 @@ class ProfileAdmin(admin.ModelAdmin):
 
 # admin.site.register(Profile,ProfileAdmin)
 # testing change
+# testing change 2
 admin.site.register(Message)
