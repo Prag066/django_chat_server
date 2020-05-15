@@ -11,5 +11,5 @@ class ProfileAdmin(admin.ModelAdmin):
     # fields = ((''),)
 
 # admin.site.register(Profile,ProfileAdmin)
-
+# testing change
 admin.site.register(Message)
